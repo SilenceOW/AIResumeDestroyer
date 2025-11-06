@@ -1,2 +1,5 @@
-# AI Resume Destroyer\n### That thing will identify every weak points of your resume and destroy it\n#### Based on OpenAI API. Model gpt-4o-mini.
-
+# AI Resume Destroyer
+### Resume reviewer tool, that will identify every weak point in your resume, assign your resume BS rating and give tips to improve it.
+#### Based on:
+- NextJS
+- OpenAI API
